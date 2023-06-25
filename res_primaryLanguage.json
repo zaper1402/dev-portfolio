@@ -158,6 +158,7 @@
         ],
         "technologies": [
           "RxJS",
+          "AngularJs",
           "JavaScript",
           "Typescript",
           "Angular Material"
