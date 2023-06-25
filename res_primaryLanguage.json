@@ -129,11 +129,11 @@
     ],
     "experience": [
       {
-        "company": "Hike Pvt Ltd",
+        "company": "Hike",
         "title": "Software Development Engineer",
-        "years": "3.2021 - present",
+        "years": "03.2021 - present",
         "mainTech": [
-          "Android"
+          "Android Development"
         ],
         "technologies": [
           "Java",
@@ -154,7 +154,7 @@
         "title": "Software Engineer",
         "years": "01.2021- 03.2021",
         "mainTech": [
-          "Angular"
+          "Web Development"
         ],
         "technologies": [
           "RxJS",
@@ -162,6 +162,35 @@
           "JavaScript",
           "Typescript",
           "Angular Material"
+        ]
+      },
+      {
+        "company": "Adstacks",
+        "title": "Android Intern",
+        "years": "06.2019 - 07.2019",
+        "mainTech": [
+          "Android Development"
+        ],
+        "technologies": [
+          "Java",
+          "RxJava",
+          "MySql",
+          "REST API"
+        ]
+      },
+      {
+        "company": "Nabhya Consulting",
+        "title": "Software Development Intern",
+        "years": "06.2018 - 07.2018",
+        "mainTech": [
+          "Web Application Development"
+        ],
+        "technologies": [
+          "RxJS",
+          "ReactJs",
+          "JavaScript",
+          "HTML",
+          "CSS"
         ]
       }
     ]
