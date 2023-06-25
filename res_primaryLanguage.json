@@ -81,37 +81,38 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Hike Pvt Ltd",
+        "title": "Software Development Engineer",
+        "years": "3.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Android"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Java",
+          "Kotlin",
+          "Room-DB",
+          "RxJava",
+          "Co-routines",
+          "MySql",
+          "Multi-threading",
+          "Multi-process",
+          "GLTF",
+          "Filament",
+          "REST API"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Parallel Wireless",
+        "title": "Software Engineer",
+        "years": "01.2021- 03.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Angular"
         ],
         "technologies": [
           "RxJS",
-          "Django",
-          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Typescript",
+          "Angular Material"
         ]
       }
     ]
