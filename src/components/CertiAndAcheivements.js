@@ -60,9 +60,12 @@ class CertiAndAcheivements extends Component {
             <h4
               className="vertical-timeline-element-subtitle"
               style={{ textAlign: "left" }}
-              href={work.link}
             >
-              "Link"
+              <span className="m-4">
+                <a href={work.link} target="_blank" rel="noopener noreferrer">
+                  Link
+                </a>
+              </span>
             </h4>
           </VerticalTimelineElement>
         );
