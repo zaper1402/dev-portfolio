@@ -193,5 +193,29 @@
           "CSS"
         ]
       }
+    ],
+    "achievements": [
+      {
+        "company": "Hike",
+        "title": "Software Development Engineer",
+        "years": "03.2021 - present",
+        "mainTech": [
+          "Android Development"
+        ],
+        "technologies": [
+          "Java",
+          "Kotlin",
+          "Room-DB",
+          "RxJava",
+          "Co-routines",
+          "MySql",
+          "Multi-threading",
+          "Multi-process",
+          "GLTF",
+          "Filament",
+          "REST API"
+        ],
+        "link": ""
+      }
     ]
   }
