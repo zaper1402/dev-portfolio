@@ -60,11 +60,6 @@ class CertiAndAcheivements extends Component {
                 </a>
             </span>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
-            <h4
-              className="vertical-timeline-element-subtitle"
-              style={{ textAlign: "left" }}
-            >
-            </h4>
           </VerticalTimelineElement>
         );
       });
