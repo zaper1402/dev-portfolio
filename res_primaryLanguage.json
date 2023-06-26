@@ -203,17 +203,7 @@
           "Android Development"
         ],
         "technologies": [
-          "Java",
-          "Kotlin",
-          "Room-DB",
-          "RxJava",
-          "Co-routines",
-          "MySql",
-          "Multi-threading",
-          "Multi-process",
-          "GLTF",
-          "Filament",
-          "REST API"
+          "Java"
         ],
         "link": "https://www.instagram.com/ashir.kul"
       }
