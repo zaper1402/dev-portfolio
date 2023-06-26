@@ -83,7 +83,7 @@ class CertiAndAcheivements extends Component {
         </div>
         <div className="col-md-8 mx-auto">
           <VerticalTimeline>
-            {acheivements}
+            {work}
             <VerticalTimelineElement
               iconStyle={{
                 background: "#AE944F",
