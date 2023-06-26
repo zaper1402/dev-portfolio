@@ -50,15 +50,20 @@ class CertiAndAcheivements extends Component {
             >
               {work.title}
             </h3>
-            <span
-              key={work.company}
+            <h4
               className="vertical-timeline-element-subtitle"
               style={{ textAlign: "left" }}
             >
-               <a href={work.link} target="_blank" rel="noopener noreferrer">
+              <span
+                key={work.company}
+                className="vertical-timeline-element-subtitle"
+                style={{ textAlign: "left" }}
+              >
+                <a href={work.link} target="_blank" rel="noopener noreferrer">
                   <i className={work.title}>{work.company}</i>
                 </a>
-            </span>
+              </span>
+            </h4>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
           </VerticalTimelineElement>
         );
