@@ -55,7 +55,7 @@ class CertiAndAcheivements extends Component {
               style={{ textAlign: "left" }}
             >
               <span
-                key={acheivements.organisation}
+                key={acheivements.company}
                 className="vertical-timeline-element-subtitle"
                 style={{ textAlign: "left" }}
               >
@@ -70,7 +70,7 @@ class CertiAndAcheivements extends Component {
       });
     }
 
-
+    
     return (
       <section id="resume" className="pb-5">
         <div className="col-md-12 mx-auto">
