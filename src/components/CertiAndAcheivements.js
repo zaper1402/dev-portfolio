@@ -60,7 +60,7 @@ class CertiAndAcheivements extends Component {
                 style={{ textAlign: "left" }}
               >
                 <a href={acheivements.link} target="_blank" rel="noopener noreferrer">
-                  <i className={acheivements.title}>{acheivements.title}</i>
+                  <i>{acheivements.title}</i>
                 </a>
               </span>
             </h4>
