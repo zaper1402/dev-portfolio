@@ -9,8 +9,8 @@ import Badge from "react-bootstrap/Badge";
 class CertiAndAcheivements extends Component {
   render() {
     if (this.props.resumeExperience && this.props.resumeBasicInfo) {
-      var sectionName = this.props.resumeBasicInfo.section_name.experience;
-      var work = this.props.resumeExperience.map(function (work, i) {
+      var sectionName = this.props.resumeBasicInfo.section_name.acheivements;
+      var acheivements = this.props.resumeExperience.map(function (work, i) {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
 
@@ -31,7 +31,7 @@ class CertiAndAcheivements extends Component {
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={work.years}
+            date={acheivements.years}
             iconStyle={{
               background: "#AE944F",
               color: "#fff",
@@ -48,19 +48,19 @@ class CertiAndAcheivements extends Component {
               className="vertical-timeline-element-title"
               style={{ textAlign: "left" }}
             >
-              {work.title}
+              {acheivements.organisation}
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
               style={{ textAlign: "left" }}
             >
               <span
-                key={work.company}
+                key={acheivements.company}
                 className="vertical-timeline-element-subtitle"
                 style={{ textAlign: "left" }}
               >
-                <a href={work.link} target="_blank" rel="noopener noreferrer">
-                  <i className={work.title}>{work.company}</i>
+                <a href={acheivements.link} target="_blank" rel="noopener noreferrer">
+                  <i className={acheivements.title}>{acheivements.title}</i>
                 </a>
               </span>
             </h4>
@@ -83,7 +83,7 @@ class CertiAndAcheivements extends Component {
         </div>
         <div className="col-md-8 mx-auto">
           <VerticalTimeline>
-            {work}
+            {acheivements}
             <VerticalTimelineElement
               iconStyle={{
                 background: "#AE944F",
