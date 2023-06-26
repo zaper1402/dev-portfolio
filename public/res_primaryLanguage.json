@@ -6,8 +6,7 @@
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience",
-        "acheivements": "Certifications & Acheivements"
+        "experience": "Experience"
       }
     },
     "projects": [
@@ -197,8 +196,8 @@
     ],
     "achievements": [
       {
-        "title": "Hike",
-        "organisation": "Software Development Engineer",
+        "company": "Hike",
+        "title": "Software Development Engineer",
         "years": "03.2021 - present",
         "mainTech": [
           "Android Development"
