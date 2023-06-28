@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="devicon-android-plain" style={{ fontSize: "220%" }}></i>}
+            icon={<i className={`${work.class} experience-icon`} style={{ fontSize: "220%" }}></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
