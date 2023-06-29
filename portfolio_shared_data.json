@@ -4,14 +4,34 @@
       "titles": [  "Software Developer","Android Developer","Fullstack Developer" ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com/zaper1402",
-          "class": "fab fa-github"
+          "name": "Linkedin",
+          "url": "http://linkedin.com/in/ashirkul1402",
+          "class": "ri:linkedin-fill"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com/ashir.kul/",
-          "class": "fab fa-instagram"
+          "name": "Github",
+          "url": "https://github.com/zaper1402",
+          "class": "mdi:github"
+        },
+        {
+          "name": "Medium",
+          "url": "https://medium.com/@ashirkul",
+          "class": "bi:medium"
+        },
+        {
+          "name": "Leetcode",
+          "url": "https://leetcode.com/ashirkul/",
+          "class": "simple-icons:leetcode"
+        },
+        {
+          "name": "Codechef",
+          "url": "https://www.codechef.com/users/ashir1402",
+          "class": "simple-icons:codechef"
+        },
+        {
+          "name": "GeeksForGeeks",
+          "url": "https://auth.geeksforgeeks.org/user/ashirkul/practice/",
+          "class": "simple-icons:geeksforgeeks"
         }
       ],
       "image": "myProfile.jpg"

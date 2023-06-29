@@ -12,118 +12,95 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "All Mantra",
+        "startDate": "2023",
+        "description": "An app with comprehensive Hindu god and goddess mantras for spiritual guidance and divine blessings. Available on Play Store",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/AllMantra/img_1.jpg",
+          "images/AllMantra/img_2.jpg"
         ],
-        "url": "",
+        "url": "https://play.google.com/store/apps/details?id=com.musthave.hindumantra",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-android-plain",
+            "name": "Android"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-java-plain",
+            "name": "Java"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-kotlin-plain",
+            "name": "Kotlin"
           }
         ]
       },
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Post.it",
+        "startDate": "2021",
+        "description": "Discover, connect, and share your world with Post.it – the ultimate Instagram-inspired platform where you can like, follow, view profiles, and seamlessly sign up or log in!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/postIt/Profile.png",
+          "images/postIt/Homepage.png",
+          "images/postIt/Signup.png"
         ],
-        "url": "",
+        "url": "https://github.com/zaper1402/Post.it",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDb"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Optimum Route Finder",
+        "startDate": "2020",
+        "description": "Streamline your journey planning with this powerful Puppeteer and NodeJs automation script, effortlessly generating the most efficient route for visiting all your stops and reaching your destination, while saving a convenient PDF of step-by-step directions.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/OptimumRoute/Working.jpg",
+          "images/OptimumRoute/output.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/zaper1402/Automated-Route-Planner-",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          }
+        ]
+      },
+      {
+        "title": "Password Vault",
+        "startDate": "2019",
+        "description": "Securely store and manage your passwords offline with an exceptional password storing application. Utilizing Java's powerful SHA-256 encryption and Firebase login integration, safeguard your sensitive information with ease.",
+        "images": [
+          "images/passwordVault/img_1.jpg",
+          "images/passwordVault/img_2.jpg"
+        ],
+        "url": "https://play.google.com/store/apps/details?id=com.usa.passwordmanager&hl=en&gl=US",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-electron-original",
+            "name": "Cypher Java"
           }
         ]
       }
@@ -164,6 +141,7 @@
           "AngularJs",
           "JavaScript",
           "Typescript",
+          "MongoDb",
           "Angular Material"
         ]
       },
@@ -201,16 +179,108 @@
     ],
     "achievements": [
       {
-        "company": "Hike",
-        "title": "Software Development Engineer",
-        "years": "03.2021 - present",
+        "company": "Stanford University",
+        "title": "Machine Learning Specialization",
+        "years": "04.2023",
         "mainTech": [
-          "Android Development"
+          "Machine Learning"
         ],
         "technologies": [
+          "Supervised Machine Learning: Regression and Classification",
+          "Advanced Learning Algorithms",
+          "Unsupervised Learning",
+          "Recommenders",
+          "Reinforcement Learning"
+        ],
+        "link": "https://coursera.org/verify/specialization/ZGRU9W6EBMBC"
+      },
+      {
+        "company": "KPMG",
+        "title": "Data Analytics Consulting Virtual Internship",
+        "years": "03.2023",
+        "mainTech": [
+          "Data Analytics"
+        ],
+        "technologies": [
+          "Data Quality Assessment",
+          "Data Insights",
+          "Data Insights and Presentation"
+        ],
+        "link": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_4Jnr677heuGfyFYJP_1679991032056_completion_certificate.pdf"
+      },
+      {
+        "company": "Datacamp",
+        "title": "SQL for Joining Data",
+        "years": "11.2019",
+        "mainTech": [
+          "SQL"
+        ],
+        "technologies": [],
+        "link": "https://www.datacamp.com/statement-of-accomplishment/course/68941d0532322c61d0a602e82a7fafd74ebc5494"
+      },
+      {
+        "company": "Datacamp",
+        "title": "Intermediate SQL Queries",
+        "years": "11.2019",
+        "mainTech": [
+          "SQL"
+        ],
+        "technologies": [],
+        "link": ""
+      },
+      {
+        "company": "Datacamp",
+        "title": "SQL basics for Data Science",
+        "years": "11.2019",
+        "mainTech": [
+          "SQL"
+        ],
+        "technologies": [],
+        "link": "https://www.datacamp.com/statement-of-accomplishment/course/f970ef88c62826479a7e216049ea6341dd376e4d"
+      },
+      {
+        "company": "University of Michigan",
+        "title": "Python Data Structures",
+        "years": "04.2019",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Data Structures",
+          "Jupyter Notebook"
+        ],
+        "link": "https://coursera.org/verify/MJFH9E4TAFGB"
+      },
+      {
+        "company": "University of Michigan",
+        "title": "Python For Everybody",
+        "years": "03.2019",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Data Structures",
+          "Jupyter Notebook"
+        ],
+        "link": "https://coursera.org/verify/TBTQ783W7NRB"
+      },
+      {
+        "company": "Coding Ninjas",
+        "title": "Data Structures in Java",
+        "years": "08.2018",
+        "mainTech": [
           "Java"
         ],
-        "link": "https://www.instagram.com/ashir.kul"
+        "technologies": [
+          "Java",
+          "Data Structures",
+          "Eclipse",
+          "OOPS",
+          "Debugging Tools"
+        ],
+        "link": ""
       }
     ]
   }
