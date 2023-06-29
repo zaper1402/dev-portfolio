@@ -5,9 +5,9 @@ class Footer extends Component {
     if (this.props.sharedBasicInfo) {
       var networks = this.props.sharedBasicInfo.social.map(function (network) {
         return (
-          <span key={network.name} className="m-4">
+          <span key={network.name} className="m-4 iconify">
             <a href={network.url} target="_blank" rel="noopener noreferrer">
-              <i className={network.class}></i>
+              <span href={network.url} data-icon={network.class} focusable={true} key={network.name} className="m-4 iconify"/>
             </a>
           </span>
         );

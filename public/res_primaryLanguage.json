@@ -179,16 +179,108 @@
     ],
     "achievements": [
       {
-        "company": "Hike",
-        "title": "Software Development Engineer",
-        "years": "03.2021 - present",
+        "company": "Stanford University",
+        "title": "Machine Learning Specialization",
+        "years": "04.2023",
         "mainTech": [
-          "Android Development"
+          "Machine Learning"
         ],
         "technologies": [
+          "Supervised Machine Learning: Regression and Classification",
+          "Advanced Learning Algorithms",
+          "Unsupervised Learning",
+          "Recommenders",
+          "Reinforcement Learning"
+        ],
+        "link": "https://coursera.org/verify/specialization/ZGRU9W6EBMBC"
+      },
+      {
+        "company": "KPMG",
+        "title": "Data Analytics Consulting Virtual Internship",
+        "years": "03.2023",
+        "mainTech": [
+          "Data Analytics"
+        ],
+        "technologies": [
+          "Data Quality Assessment",
+          "Data Insights",
+          "Data Insights and Presentation"
+        ],
+        "link": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_4Jnr677heuGfyFYJP_1679991032056_completion_certificate.pdf"
+      },
+      {
+        "company": "Datacamp",
+        "title": "SQL for Joining Data",
+        "years": "11.2019",
+        "mainTech": [
+          "SQL"
+        ],
+        "technologies": [],
+        "link": "https://www.datacamp.com/statement-of-accomplishment/course/68941d0532322c61d0a602e82a7fafd74ebc5494"
+      },
+      {
+        "company": "Datacamp",
+        "title": "Intermediate SQL Queries",
+        "years": "11.2019",
+        "mainTech": [
+          "SQL"
+        ],
+        "technologies": [],
+        "link": ""
+      },
+      {
+        "company": "Datacamp",
+        "title": "SQL basics for Data Science",
+        "years": "11.2019",
+        "mainTech": [
+          "SQL"
+        ],
+        "technologies": [],
+        "link": "https://www.datacamp.com/statement-of-accomplishment/course/f970ef88c62826479a7e216049ea6341dd376e4d"
+      },
+      {
+        "company": "University of Michigan",
+        "title": "Python Data Structures",
+        "years": "04.2019",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Data Structures",
+          "Jupyter Notebook"
+        ],
+        "link": "https://coursera.org/verify/MJFH9E4TAFGB"
+      },
+      {
+        "company": "University of Michigan",
+        "title": "Python For Everybody",
+        "years": "03.2019",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Data Structures",
+          "Jupyter Notebook"
+        ],
+        "link": "https://coursera.org/verify/TBTQ783W7NRB"
+      },
+      {
+        "company": "Coding Ninjas",
+        "title": "Data Structures in Java",
+        "years": "08.2018",
+        "mainTech": [
           "Java"
         ],
-        "link": "https://www.instagram.com/ashir.kul"
+        "technologies": [
+          "Java",
+          "Data Structures",
+          "Eclipse",
+          "OOPS",
+          "Debugging Tools"
+        ],
+        "link": ""
       }
     ]
   }
