@@ -37,6 +37,21 @@ body[data-theme="dark"] {
       h1 {
          color: white;
       }
+
+      .social-links-big {
+         margin-top: 50px;
+         font-size: 200%;
+         color: #fff;
+      }
+      .social-links-big:visited {
+         color: #fff;
+      }
+
+      .social-links-big:hover,
+      .social-links-big:focus {
+         color: #a5a5a5;
+      }
+
    }
 
    #about {

@@ -29,7 +29,17 @@ class Header extends Component {
       var name = this.props.sharedData.name;
       this.titles = this.props.sharedData.titles.map(x => [ x.toUpperCase(), 1500 ] ).flat();
     }
-
+    if (this.props.sharedData) {
+      var networks = this.props.sharedData.social.map(function (network) {
+        return (
+          <span key={network.name} className="m-4">
+            <a href={network.url} className="social-links-big" target="_blank" rel="noopener noreferrer">
+              <span data-icon={network.class} focusable={true} key={network.name} className="m-4 iconify"/>
+            </a>
+          </span>
+        );
+      });
+    }
     const HeaderTitleTypeAnimation = React.memo( () => {
       return <Typical className="title-styles" steps={this.titles} loop={50} />
     }, (props, prevProp) => true);
@@ -87,6 +97,7 @@ class Header extends Component {
                 }
                 id="icon-switch"
               />
+              <div className="social-links">{networks}</div>
             </div>
           </div>
         </div>

@@ -6,7 +6,7 @@
         {
           "name": "Linkedin",
           "url": "http://linkedin.com/in/ashirkul1402",
-          "class": "mdi:linkedin"
+          "class": "ri:linkedin-fill"
         },
         {
           "name": "Github",
@@ -16,7 +16,7 @@
         {
           "name": "Medium",
           "url": "https://medium.com/@ashirkul",
-          "class": "ri:medium-fill"
+          "class": "bi:medium"
         },
         {
           "name": "Leetcode",

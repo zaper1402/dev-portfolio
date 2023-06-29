@@ -4,4 +4,19 @@ body[data-theme="light"] {
     .slider-tab {
        background-color: #D7CAAA;
     }
+
+    .social-links-big {
+        margin-top: 50px;
+        font-size: 300%;
+        color:#777;
+    }
+
+     .social-links-big:visited {
+        color: #777;
+     }
+
+     .social-links-big:hover,
+     .social-links-big:focus {
+        color: #777777a0;
+     }
 }
