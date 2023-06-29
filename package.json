@@ -2,6 +2,7 @@
   "name": "dev-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage":" https://zaper1402.github.io/dev-portfolio/",
   "dependencies": {
     "'": "file:iconify/icons-logos/android-icon.",
     "@testing-library/jest-dom": "^4.2.4",
