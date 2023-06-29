@@ -7,16 +7,16 @@ body[data-theme="light"] {
 
     .social-links-big {
         margin-top: 50px;
-        font-size: 300%;
-        color:#777;
+        font-size: 200%;
+        color:#343333;
     }
 
      .social-links-big:visited {
-        color: #777;
+        opacity:70%;
      }
 
      .social-links-big:hover,
      .social-links-big:focus {
-        color: #777777a0;
+        opacity:70%;
      }
 }
