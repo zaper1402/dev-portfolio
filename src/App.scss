@@ -60,7 +60,7 @@ header {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: rgb(174, 148, 79);
 	color: white;
 }
 
@@ -124,10 +124,11 @@ header h1 {
 .foto img {
 	display: block;
 	width: 100%;
+	border-radius: 3px;
 }
 
 .foto div {
-	background: #ffffff;
+	background: #efe1bd;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -141,6 +142,7 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+	border-radius: 3px;
 }
 
 .foto div:after {
@@ -341,7 +343,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #fff;
 	padding-bottom: 5%;
 }
 

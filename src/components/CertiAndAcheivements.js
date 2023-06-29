@@ -48,12 +48,6 @@ class CertiAndAcheivements extends Component {
               className="vertical-timeline-element-title"
               style={{ textAlign: "left" }}
             >
-              {acheivements.company}
-            </h3>
-            <h4
-              className="vertical-timeline-element-subtitle"
-              style={{ textAlign: "left" }}
-            >
               <span
                 key={acheivements.title}
                 className="vertical-timeline-element-subtitle"
@@ -63,6 +57,13 @@ class CertiAndAcheivements extends Component {
                   <i className={acheivements.company}>{acheivements.title}</i>
                 </a>
               </span>
+             
+            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              style={{ textAlign: "left" }}
+            > 
+            {acheivements.company}  
             </h4>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
           </VerticalTimelineElement>
