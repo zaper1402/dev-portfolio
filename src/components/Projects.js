@@ -12,6 +12,7 @@ class Projects extends Component {
 
   render() {
     let detailsModalShow = (data) => {
+      JSBridge.showMessageInNative("THis is a sample message")
       this.setState({ detailsModalShow: true, deps: data });
     };
 
